@@ -3,8 +3,8 @@
 ### Radboud University (2022-2023)
 
 ### Published papers
-[Distractor-based Evaluation of Sign Spotting](https://github.com/nataliehh/Evaluating-Sign-Spotting)
-[Analyzing the Potential of Linguistic Features for Sign Spotting: A Look at Approximative Features](https://github.com/nataliehh/Linguistic-Features-for-Sign-Spotting)
+- [Distractor-based Evaluation of Sign Spotting](https://github.com/nataliehh/Evaluating-Sign-Spotting)
+- [Analyzing the Potential of Linguistic Features for Sign Spotting: A Look at Approximative Features](https://github.com/nataliehh/Linguistic-Features-for-Sign-Spotting)
 
 ---
 
