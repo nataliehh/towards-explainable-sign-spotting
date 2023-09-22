@@ -1,0 +1,6 @@
+*.log
+*.npy
+*.pkl
+*/
+!tools/
+!results/

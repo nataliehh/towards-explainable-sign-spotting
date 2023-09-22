@@ -1,0 +1,43 @@
+Set 1,Set 2,Delta property,FP (Set 1),FP (Set 2),p-value,signif.
+_only_lmrks,_only_ling,Alternating Movement,35,34,1.0,False
+_only_lmrks,_combined,Alternating Movement,35,43,0.21592,False
+_only_ling,_combined,Alternating Movement,34,43,0.18845,False
+_only_lmrks,_only_ling,Contact Type,105,98,0.4701,False
+_only_lmrks,_combined,Contact Type,105,118,0.12443,False
+_only_ling,_combined,Contact Type,98,118,0.0126,True
+_only_lmrks,_only_ling,Handedness,371,319,0.01019,True
+_only_lmrks,_combined,Handedness,371,349,0.28637,False
+_only_ling,_combined,Handedness,319,349,0.10607,False
+_only_ling,_combined,Handshape Change,79,77,0.89176,False
+_only_lmrks,_only_ling,Handshape Change,71,79,0.40278,False
+_only_lmrks,_combined,Handshape Change,71,77,0.55569,False
+_only_ling,_combined,Location,2034,2145,0.00938,True
+_only_lmrks,_only_ling,Location,2085,2034,0.24947,False
+_only_lmrks,_combined,Location,2085,2145,0.17061,False
+_only_ling,_combined,Movement Direction,3032,3297,0.0,True
+_only_lmrks,_combined,Movement Direction,2992,3297,0.0,True
+_only_lmrks,_only_ling,Movement Direction,2992,3032,0.44136,False
+_only_ling,_combined,Movement Shape,230,278,0.00014,True
+_only_lmrks,_combined,Movement Shape,278,278,0.93116,False
+_only_lmrks,_only_ling,Movement Shape,278,230,0.00012,True
+_only_lmrks,_combined,Orientation Change,139,138,1.0,False
+_only_lmrks,_only_ling,Orientation Change,139,133,0.62722,False
+_only_ling,_combined,Orientation Change,133,138,0.66804,False
+_only_lmrks,_combined,Relation between Articulators,25,23,0.72367,False
+_only_ling,_combined,Relation between Articulators,19,23,0.28884,False
+_only_lmrks,_only_ling,Relation between Articulators,25,19,0.11385,False
+_only_lmrks,_combined,Relative Orientation: Location,192,251,8e-05,True
+_only_ling,_combined,Relative Orientation: Location,181,251,1e-05,True
+_only_lmrks,_only_ling,Relative Orientation: Location,192,181,0.50687,False
+_only_lmrks,_only_ling,Relative Orientation: Movement,544,566,0.33272,False
+_only_lmrks,_combined,Relative Orientation: Movement,544,569,0.26469,False
+_only_ling,_combined,Relative Orientation: Movement,566,569,0.92064,False
+_only_lmrks,_combined,Repeated Movement,460,434,0.10512,False
+_only_ling,_combined,Repeated Movement,462,434,0.07249,False
+_only_lmrks,_only_ling,Repeated Movement,460,462,0.94896,False
+_only_ling,_combined,Strong Hand,3759,3969,0.00054,True
+_only_lmrks,_only_ling,Strong Hand,3537,3759,0.00061,True
+_only_lmrks,_combined,Strong Hand,3537,3969,0.0,True
+_only_lmrks,_combined,Weak Hand,41,37,0.38648,False
+_only_lmrks,_only_ling,Weak Hand,41,39,0.78927,False
+_only_ling,_combined,Weak Hand,39,37,0.77283,False
